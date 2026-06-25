@@ -16,7 +16,7 @@ Features
 
 Installation
 
-git clone https://github.com/yourusername/Ahmad-Mini-Bot.git
+
 cd Ahmad-Mini-Bot
 npm install
 npm start
